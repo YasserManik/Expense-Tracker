@@ -4,11 +4,11 @@ A simple Python-based expense tracker that allows users to add, display, and cal
 
 ## Table of Contents
 
-1. [Project Overview](/README.md/content/Expense-Tracker/Project-Overview)
-2. [Features](/README.md/content/Expense-Tracker/Features)
-3. [Installation](/README.md/content/Expense-Tracker/Features)
-4. [Usage](/README.md/content/Expense-Tracker/Usage)
-5. [Contributing](/README.md/content/Expense-Tracker/Contributing)
+1. [Project Overview](/README.md/content/Expense-Tracker#Project-Overview)
+2. [Features](/README.md/content/Expense-Tracker#Features)
+3. [Installation](/README.md/content/Expense-Tracker#Features)
+4. [Usage](/README.md/content/Expense-Tracker#Usage)
+5. [Contributing](/README.md/content/Expense-Tracker#Contributing)
 
 # Project Overview
 This Expense Tracker is designed to help users easily manage and track their spending. It uses a simple interface for adding expenses, displaying a list of all expenses, and calculating the total amount spent.
