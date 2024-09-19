@@ -10,7 +10,7 @@ A simple Python-based expense tracker that allows users to add, display, and cal
 4. [Usage](#usage)
 5. [Contributing](#contributing)
 
-# Project Overview
+## Project Overview
 This Expense Tracker is designed to help users easily manage and track their spending. It uses a simple interface for adding expenses, displaying a list of all expenses, and calculating the total amount spent.
 
 Users can interact with the program through a menu that allows them to:
