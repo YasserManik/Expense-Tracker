@@ -4,7 +4,7 @@ A simple Python-based expense tracker that allows users to add, display, and cal
 
 ## Table of Contents
 
-1. [Project Overview](##project-overview)
+1. [Project-Overview](##project-overview)
 2. [Features](##features)
 3. [Installation](##installation)
 4. [Usage](##usage)
